@@ -15,3 +15,7 @@ https://etherscan.io/tx/0x8d121a5dfd3808cb1ba8e5124dff01807c50a5fa769b77db7993ed
 https://etherscan.io/tx/0x26037582e80e9e668d8a8d16f7811441ff4db979ff63d0beb5c931c7fc9e7956
 
 https://etherscan.io/tx/0x595088895e902fdbafb133c7d2b14e0264bfb4d400bb2928d27e1c10f4f05ac5
+
+## addMinter record
+
+https://api.blockchair.com/ethereum/transactions?q=input_hex(%5E983b2d56),recipient(0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83)
